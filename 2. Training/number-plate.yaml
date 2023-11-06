@@ -1,0 +1,6 @@
+names:
+- number plate
+path: /content/gdrive/MyDrive/ANPR/datasets
+test: images/test
+train: images/train
+val: images/valid
