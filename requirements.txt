@@ -1,11 +1,7 @@
 easyocr==1.7.1
 numpy==1.26.1
 opencv_python==4.8.1.78
-<<<<<<< HEAD
 Pillow==10.1.0
-=======
-Pillow==10.0.1
->>>>>>> 9e8c573859c20a04298cfb72771a4fbc1e07fe36
 streamlit==1.28.1
 torch==2.1.0
 ultralytics==8.0.208
