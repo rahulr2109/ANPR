@@ -1,4 +1,5 @@
  ANPR
+ 
  To Run app.py Web App , follow instructions:
  1. Create a Conda virtual Environment using : conda create -n envname python=3.9 ipykernel (First Install Anaconda)
  2. Activate the Environment using : conda activate envname
