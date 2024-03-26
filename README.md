@@ -6,5 +6,7 @@
  3. Install necessary Libraries Using : pip install -r requirements.txt ( requirements.txt file is given)
  4. To run the app locally : streamlit run app.py
  Execute all these instructions on anaconda prompt
- Best Regards, Rahul 
+
+ Best Regards 
+ Rahul 
  🖖 "Live long and prosper"
